@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Data Cleaning in MySQL - World Layoffs Dataset](#data-cleaning-in-mysql---world-layoffs-dataset)
 - [Overview](#overview)
 - [Goals and Key Questions](#goals-and-key-questions)
 - [Dataset](#dataset)
