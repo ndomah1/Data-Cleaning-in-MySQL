@@ -1,5 +1,20 @@
 # Data Cleaning in MySQL - World Layoffs Dataset
 
+## Table of Contents
+
+- [Data Cleaning in MySQL - World Layoffs Dataset](#data-cleaning-in-mysql---world-layoffs-dataset)
+- [Overview](#overview)
+- [Goals and Key Questions](#goals-and-key-questions)
+- [Dataset](#dataset)
+- [Data Cleaning Steps](#data-cleaning-steps)
+  - [1. Removing Duplicates](#1-removing-duplicates)
+  - [2. Standardizing Data](#2-standardizing-data)
+  - [3. Handling Missing Values](#3-handling-missing-values)
+  - [4. Changing Data Types](#4-changing-data-types)
+- [SQL Scripts Used](#sql-scripts-used)
+- [Future Recommendations](#future-recommendations)
+- [Usage Instructions](#usage-instructions)
+
 ## **Overview**
 
 This project focuses on cleaning a dataset of worldwide layoffs using MySQL. The raw dataset contains inconsistencies, missing values, and formatting errors that must be addressed before conducting meaningful analysis. By applying best practices in data cleaning, we ensure that the dataset is well-structured, accurate, and ready for further exploration.
